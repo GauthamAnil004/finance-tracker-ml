@@ -1,0 +1,5 @@
+Python IDE and following libraries: 
+streamlit
+pandas
+numpy
+scikit-learn
