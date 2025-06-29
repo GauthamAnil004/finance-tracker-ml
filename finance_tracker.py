@@ -1,7 +1,3 @@
-#in powershell trun the program type:
-#1. cd Downloads
-#2. streamlit run finance_tracker.py
-
 import pandas as pd
 import numpy as np
 import streamlit as st
